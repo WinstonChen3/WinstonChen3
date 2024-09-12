@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @WinstonChen3
-- 🌱 I’m currently learning: JavaScript
 - 📫 How to reach me: you dont
 
 <!---
